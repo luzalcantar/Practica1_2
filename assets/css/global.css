@@ -1,0 +1,31 @@
+html, body {
+    height: -webkit-fill-available;
+}
+body {
+    padding: 45px 75px;
+    background: linear-gradient(0deg, rgb(148 136 197) 0%, rgb(220 178 178) 100%);
+}
+button.btn.btn-default {
+    padding: 12px 25px;
+    border-radius: 5px;
+    border: 1px solid #becdd0;
+    background: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+button.btn.btn-default:hover {
+    padding: 12px 25px;
+    border-radius: 5px;
+    border: 1px solid #b4c2c5;
+    background: #f1f1f1;
+    font-size: 16px;
+}
+.sectionbtn {
+    text-align: center;
+}
+h1 {
+    color: white;
+    padding: 20px 0;
+    font-variant-caps: petite-caps;
+    text-shadow: 2px 2px 5px #9a8888;
+}
